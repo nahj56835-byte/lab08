@@ -1,4 +1,4 @@
-package isp2;
+package lsp2;
 
 public interface Account {
     void deposit(double amount);
