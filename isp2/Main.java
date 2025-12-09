@@ -1,4 +1,4 @@
-package lsp2;
+package isp2;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package lsp2;
+package isp2;
 
 public class BankAccount implements Account, Withdrawable {
 

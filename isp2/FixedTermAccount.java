@@ -1,4 +1,4 @@
-package lsp2;
+package isp2;
 
 public class FixedTermAccount implements Account {
 
